@@ -71,7 +71,7 @@ npm run html-validator
 ## 👤 Author
 
 - Github: [@author](https://github.coom/dollarrr)
-- Twitter: [@author](https://twitter.com/DollarsGadgetsgit )
+- Twitter: [@author](https://twitter.com/DollarsGadgetsgit)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
