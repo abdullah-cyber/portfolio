@@ -1,0 +1,8 @@
+@media only screen and (min-width: 600px) {
+    body{
+    background-image: url(../images/header-shapes-mobile.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+}
