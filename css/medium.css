@@ -1,90 +1,88 @@
-@media only screen and (min-width: 600px) and (max-width: 1200px){
-    body{
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+  body {
     background-image: url(../images/header-shapes-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 50px;
     margin-right: 50px;
-    }
-.flex-container{
+  }
+
+  .flex-container {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-}
-    .flex_item_left{
-        align-self: flex-start;
-        position: static;
-        align-items: center;
-        text-align: center;
-        color: #6070FF;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 18px;
-        line-height: 20px;
-        width: 76px;
-        height: 20px;
-        left: 12px;
-        top: 10px;
-        display: flex;
-    }
-    .flex_item_right{
-        display: flex;
-        position: absolute;
-        color: #6070FF  ;
-        align-self: flex-end;
-    }
-    .marine{
-        position: static;
-        font-size: 50px;
-        line-height: 50px;
-        margin: 100px 100px 0 100px;
-        color: #172B4D;
-        left: 0px;
-        top: 0px;
-        display: flex;
-        flex: none;
-        order: 0;
-        flex-grow: 0;
-        align-items: center;
-        width: 300px;
-height: 150px;
-left: 24px;
-top: 114px;
+  }
 
-    }
-    .first_content{
-        margin: 0px 100px 0px 100px;
-            font-family: Poppins;
-            color: #172B4D;
-        }
-        .connect{
-            position: static;
-            width: 117px;
-            height: 24px;
-            left: 0px;
-            top: 0px;
-            font-family: Poppins;
-            font-style: normal;
-            font-weight: 500;
-            font-size: 16px;
-            line-height: 24px;
-            color: #7F8CFF;
-            flex: none;
-            order: 0;
-            flex-grow: 0;
-            margin-left: 100px;
-            }
-    
-    
-            .flex_container_2{
-                display: flex;
-                flex-wrap: wrap;
-                flex-direction: row;
-                margin-left: 100px;
-                column-gap: 8px;
-            }
-            .flex_container_2 a{
-                color: #172B4D;
-            }
-        
+  .flex_item_left {
+    align-self: flex-start;
+    position: static;
+    align-items: center;
+    text-align: center;
+    color: #6070ff;
+    font-size: 18px;
+    line-height: 20px;
+    width: 76px;
+    height: 20px;
+    left: 12px;
+    top: 10px;
+    display: flex;
+  }
+
+  .flex_item_right {
+    display: flex;
+    position: absolute;
+    color: #6070ff;
+    align-self: flex-end;
+  }
+
+  .marine {
+    position: static;
+    font-size: 50px;
+    line-height: 50px;
+    margin: 150px 100px 0 100px;
+    color: #172b4d;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+  }
+
+  .first_content {
+    margin: 0 100px 0 100px;
+    color: #172b4d;
+  }
+
+  .connect {
+    position: static;
+    width: 117px;
+    height: 24px;
+    left: 0;
+    top: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 100px;
+  }
+
+  .flex_container_2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 100px;
+    column-gap: 8px;
+  }
+
+  .flex_container_2 a {
+    color: #172b4d;
+  }
 }

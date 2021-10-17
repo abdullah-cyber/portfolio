@@ -3,8 +3,11 @@
 .myLogo{
 font-family: 'Poppins', sans-serif;
 }
-.marine{
+.marine,.first_item_left{
     font-family: 'poppins', sans-serif;
     font-style: normal;
     font-weight: bold;
+}
+.connect,.first_content{
+    font-family: 'poppins', sans-serif;
 }
