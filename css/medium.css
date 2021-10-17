@@ -7,12 +7,6 @@
     margin-right: 50px;
   }
 
-  .flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-  }
-
   .flex_item_left {
     align-self: flex-start;
     position: static;

@@ -11,3 +11,9 @@ font-family: 'Poppins', sans-serif;
 .connect,.first_content{
     font-family: 'poppins', sans-serif;
 }
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+ 
