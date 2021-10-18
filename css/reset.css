@@ -1,5 +1,10 @@
 /* Base styles */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body,html{
+    height: auto;
+    width: auto;
+   
+}
 .myLogo{
 font-family: 'Poppins', sans-serif;
 }
@@ -14,6 +19,7 @@ font-family: 'Poppins', sans-serif;
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: column; 
   }
+
  

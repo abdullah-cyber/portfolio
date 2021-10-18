@@ -1,13 +1,13 @@
 @media only screen and (min-width: 1200px) {
-  body {
+   body{
     background-image: url(../images/header-shapes-desktop.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
-    margin-right: 100px;
-    margin-left: 100px;
+    background-size: cover;
     width: auto;
-  }
+    margin-left: 100px;
+    margin-right: 100px;
 
+  }
   .flex_item_right {
     display: flex;
     position: absolute;
