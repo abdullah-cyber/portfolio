@@ -5,7 +5,7 @@
     background-size: cover;
     width: auto;
     margin-left: 100px;
-     margin-right: 100px;
+    margin-right: 100px;
   }
 
   .flex_item_left {
@@ -21,7 +21,6 @@
     left: 12px;
     top: 10px;
     display: flex;
-
   }
 
   .flex_item_right {
