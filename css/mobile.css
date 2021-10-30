@@ -1,14 +1,7 @@
 
-header {
-  background-color: white;
-}
-
 .my_main {
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: auto;
   background-image: url(../images/header-shapes-mobile.jpg);
-  height: auto;
+  height: 818px;
 }
 
 .flex_item_right {
@@ -23,8 +16,6 @@ header {
   position: static;
   width: 80px;
   height: 20px;
-  font-size: 18px;
-  line-height: 20px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -34,28 +25,28 @@ header {
   margin-left: 24px;
   align-self: flex-start;
 }
+.flex_item_left a{
+    text-decoration: none;
+    color: #6070ff;
+    font-size: 18px;
+    line-height: 20px;
+}
 
-.marine {
-  position: static;
+.my_main h1 {
+  
   width: 300px;
   height: 150px;
   top: 114px;
-  font-size: 40px;
-  line-height: 52px;
-  display: flex;
-  align-items: center;
+  font-size: 70px;
+  line-height: 72px;
   color: #172b4d;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
   margin: 0 24px;
-  padding-top: 120px;
+  padding-top: 300px;
 }
 
-.first_content {
+
+.first_content p{
   position: static;
-  left: 24px;
-  top: 276px;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -64,7 +55,8 @@ header {
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin: 0    24px;
+  margin-left:    24px;
+  padding-top: 150px;
 }
 
 .connect {
@@ -80,6 +72,7 @@ header {
   order: 0;
   flex-grow: 0;
   margin: 0 24px;
+  padding-top: 50px;
 }
 
 .fa_twitter {
@@ -90,16 +83,12 @@ header {
 }
 
 .flex_container_2 {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  column-gap: 8px;
-}
-
-.flex_container_2 a {
-  color: #172b4d;
+  column-gap: 20px;
+  margin-top: 30px;
+ 
 }
 
 .twitter_logo {
-  margin-left: 24px;
+  margin-left: 44px;
+  
 }

@@ -3,6 +3,6 @@ This imports the `reset.css` file */
 @import './reset.css';
 @import './mobile.css';
 
-/* @import './main.css';
-@import './medium.css'; */
+/* @import './main.css'; */
+/* @import './medium.css'; */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
