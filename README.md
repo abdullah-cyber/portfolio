@@ -1,8 +1,8 @@
 # Project Name
 
-> One paragraph statement about the project.
+this is a portfolio project that describes who i am
 
-![screenshot](./app_screenshot.png)
+![screenshot]: None!
 
 Additional description about the project and its features.
 
