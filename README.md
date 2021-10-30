@@ -1,6 +1,6 @@
 # my Portfolio project
 
-> One paragraph statement about the project.
+this myportfolioproject is a project that follows a step by step flow of my profile and work and follows and pass through all stylelint checks
 
 ![screenshot](./app_screenshot.png)
 
