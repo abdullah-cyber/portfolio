@@ -2,7 +2,7 @@
 
 this myportfolioproject is a project that follows a step by step flow of my profile and work and follows and pass through all stylelint checks
 
-![screenshot]: none
+![screenshot]: none!
 
 Additional description about the project and its features.
 
