@@ -54,12 +54,14 @@ font-family: 'Poppins', sans-serif;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    margin-left: 40px;
 }
 .flex_container_2 a {
     color: #172b4d;
     text-decoration: none;
-    padding: 0px 5px;
-        
-  }
+    padding: 3px;
+    font-size: 23px;
+
+}
   
  

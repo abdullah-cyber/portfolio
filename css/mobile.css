@@ -32,16 +32,16 @@
   font-size: 18px;
   line-height: 20px;
 }
-
-.my_main h1 {
-  width: 300px;
-  height: 150px;
-  top: 114px;
-  font-size: 70px;
-  line-height: 72px;
+.my_main{
+  padding-top: 50px;
+}
+.my_main h2 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
   color: #172b4d;
   margin: 0 24px;
-  padding-top: 300px;
+  padding-top: 150px;
 }
 
 .first_content p {
@@ -55,7 +55,7 @@
   order: 0;
   flex-grow: 0;
   margin-left: 24px;
-  padding-top: 150px;
+  padding-top: 20px;
 }
 
 .connect {
@@ -71,21 +71,13 @@
   order: 0;
   flex-grow: 0;
   margin: 0 24px;
-  padding-top: 50px;
-}
-
-.fa_twitter {
-  position: absolute;
-  left: 6.4%;
-  right: 88.27%;
-  bottom: 18.88%;
+  padding-top: 30px;
 }
 
 .flex_container_2 {
-  column-gap: 20px;
+  column-gap: 15px;
   margin-top: 30px;
+  margin-left: 20px;
 }
 
-.twitter_logo {
-  margin-left: 44px;
-}
+
