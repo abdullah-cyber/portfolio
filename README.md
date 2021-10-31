@@ -1,8 +1,8 @@
-# Project Name
+# my Portfolio project
 
-this is a portfolio project that describes who i am
+this myportfolioproject is a project that follows a step by step flow of my profile and work and follows and pass through all stylelint checks
 
-![screenshot]: None!
+![screenshot]: none!
 
 Additional description about the project and its features.
 
@@ -70,8 +70,8 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
+- Github: [@author](https://github.coom/dollarrr)
+- Twitter: [@author](https://twitter.com/DollarsGadgetsgit)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing

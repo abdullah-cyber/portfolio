@@ -1,1 +1,67 @@
 /* Base styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    padding: 0px;
+    margin:0px
+}
+body,html{
+
+    width: 100%;
+    background-color: #E5E5E5;
+    font-family: Poppins;
+   
+}
+header {
+    background-color: white;
+  }
+  .my_main{
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my_main h1{
+    position: static;
+    display: flex;
+    align-items: center;
+    order: 0;
+    flex-grow: 0;
+    flex: none;
+
+}
+.myLogo{
+font-family: 'Poppins', sans-serif;
+}
+.marine,.first_item_left{
+    font-family: 'poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.connect,.first_content{
+    font-family: 'poppins', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; 
+  }
+.flex_container_2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.flex_container_2 a {
+    color: #172b4d;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 23px;
+
+}
+  
+ 
