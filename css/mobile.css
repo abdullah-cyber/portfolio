@@ -2,6 +2,8 @@
 .my_main {
   background-image: url(../images/header-shapes-mobile.jpg);
   height: 818px;
+  width: 100%;
+  padding-top: 50px;
 }
 
 .flex_item_right {
@@ -32,9 +34,7 @@
   font-size: 18px;
   line-height: 20px;
 }
-.my_main{
-  padding-top: 50px;
-}
+
 .my_main h2 {
   font-size: 40px;
   font-weight: 700;
