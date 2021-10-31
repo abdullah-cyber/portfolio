@@ -57,6 +57,9 @@ font-family: 'Poppins', sans-serif;
 }
 .flex_container_2 a {
     color: #172b4d;
-    
+    text-decoration: none;
+    padding: 0px 5px;
+        
   }
+  
  
