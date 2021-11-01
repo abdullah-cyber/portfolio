@@ -102,8 +102,6 @@ section:nth-child(1) {
 
 .image_section_1 {
   position: static;
-  left: 16px;
-  top: 16px;
   border-radius: 8px;
   flex: none;
   order: 0;
