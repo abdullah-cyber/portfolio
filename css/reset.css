@@ -60,6 +60,21 @@ header {
     font-size: 23px;
 
 }
+.content_section_1 {
+  position: static;
+  width: 295px;
+  left: 0;
+  top: 92px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 5px 0;
+}
 .flex_container_section_2{
     display: flex;
     flex-wrap: nowrap;
