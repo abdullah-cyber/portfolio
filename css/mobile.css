@@ -111,10 +111,10 @@ section:nth-child(1) {
   margin: 12px 0;
   width: auto;
 }
+
 section:nth-of-type(2) .image_section_1 {
   order: 0;
 }
-
 
 .snapshoot {
   width: auto;
@@ -208,4 +208,3 @@ section:nth-of-type(2) .image_section_1 {
   font-size: 23px;
   text-decoration: none;
 }
-
