@@ -1,6 +1,6 @@
 # my Portfolio project
 
-this myportfolioproject is a project that follows a step by step flow of my profile and work and follows and pass through all stylelint checks
+this myportfolioproject is a project that follows a step by step flow of my profile and work and follows and pass through all stylelint checks.
 
 ![screenshot]: none!
 
