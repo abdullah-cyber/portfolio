@@ -134,7 +134,7 @@ header {
         height: 24px;
         
       }
-      .button{
+      .myButton {
   
         border: 1px solid #396DF2;
       box-sizing: border-box;
@@ -147,7 +147,7 @@ header {
       
       
       }
-      .button a{
+      .myButton a{
         font-weight: 500;
         font-size: 17px;
         line-height: 24px;
@@ -156,6 +156,8 @@ header {
         display: flex;
         justify-content: center;
         letter-spacing: 0.03em;
+        padding-top: 10px;
+        
         
         }
     
