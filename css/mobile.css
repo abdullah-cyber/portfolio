@@ -83,7 +83,7 @@
 section {
   margin-top: 88px;
   height: 596px;
-  width: 327px;
+  width: auto;
   background-color: white;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
