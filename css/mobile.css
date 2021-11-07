@@ -248,7 +248,7 @@ section:nth-of-type(2) .image_section_1 {
 .dropdown-content2 li,
 .dropdown-content3 li {
   display: flex;
-  column-gap: 20px;
+  column-gap: 30px;
   padding: 10px;
   background: #f7f7f9;
   border-radius: 8px;
