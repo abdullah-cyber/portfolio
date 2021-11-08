@@ -76,10 +76,12 @@ header {
   flex-grow: 0;
   margin: 5px 0;
 }
+.flex_container_section_2, .flex_container_section_3{
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: row;
+}
 .flex_container_section_2{
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
     column-gap: 20px;
     align-items: left;
   }
@@ -95,9 +97,6 @@ header {
     list-style-position: inside;
     }
     .flex_container_section_3{
-        display: flex;
-        flex-wrap: nowrap;
-        flex-direction: row;
         column-gap: 8px; 
         flex: none;
          order: 0;
