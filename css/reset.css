@@ -34,12 +34,9 @@ header {
 
 }
 
-.marine,.first_item_left{
+.flex_item_left, .myLogo{
     font-style: normal;
     font-weight: bold;
-}
-.connect,.first_content,.first_item_left,.myLogo{
-    font-family: 'poppins', sans-serif;
 }
 
 .flex-container, .flex_container_2 {
